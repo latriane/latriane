@@ -10,5 +10,5 @@ Salut! I do code and sometimes it's something interesting.
 ## 👤 About me
 - 21 as for the moment (wooooah)
 - i speak russian (native), english (fluently) and french (very beginning learning stage)
-- just a guy that loves modern technology so no real attachment issues with technologies
-- apple fanboy i guess ahahha, but my google pixel experientce was also nice
+- just a guy that loves modern technology, so no real attachment issues with any specific tech
+- apple fanboy, i guess, ahahha, but my google pixel experientce was also nice
