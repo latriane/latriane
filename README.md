@@ -1,10 +1,14 @@
 # latriane 
 
-## 💻 Techs:
+Salut! I do code and sometimes it's something interesting.
+
+## 🛠️ My stack
 [![](https://skillicons.dev/icons?i=js,tailwind,php,aws,flutter,vue,svelte,kotlin,swift,linux,bash,mysql,redis)](https://skillicons.dev)
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=andythesilly&theme=rose_pine&hide_border=true)<br/>
+> **Note:** icons above represent technologies i have actively used to develop real projects, including personal ones.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=andythesilly&theme=rose_pine&no-frame=false&no-bg=false&margin-w=4)
+## 👤 About me
+- 21 as for the moment (wooooah)
+- i speak russian (native), english (fluently) and french (very begging learning stage)
+- just a guy that loves modern technology so no real attachment issues with technologies
+- apple fanboy i guess ahahha, but my google pixel experientce was also nice
